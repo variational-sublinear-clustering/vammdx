@@ -1,0 +1,6 @@
+[submodule "vammdx/extern/vamm"]
+	path = vammdx/extern/vamm
+	url = https://github.com/variational-sublinear-clustering/vamm.git
+[submodule "vammdx/extern/imageutils"]
+	path = vammdx/extern/imageutils
+	url = https://github.com/variational-sublinear-clustering/imageutils.git
