@@ -1,0 +1,6 @@
+[submodule "vardenoising/extern/vamm"]
+	path = vammdx/extern/vamm
+	url = git@github.com:variational-sublinear-clustering/vamm.git
+[submodule "vammdx/extern/imageutils"]
+	path = vammdx/extern/imageutils
+	url = git@gitlab.uni-oldenburg.de:ml-oldb/denoising/imageutils.git
